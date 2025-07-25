@@ -1,0 +1,193 @@
+ALLEN BRADLEY 100S-C30KJ23C: Count = 1, Total Quantity = 2
+BUSSMANN S506-0.5A-R: Count = 1, Total Quantity = 1
+BUSSMANN S506-12.5A-R: Count = 1, Total Quantity = 1
+BUSSMANN S506-1A-R: Count = 1, Total Quantity = 4
+BUSSMANN S506-2A-R: Count = 2, Total Quantity = 7
+CABLECRAFT 20440034: Count = 1, Total Quantity = A/R
+CABLECRAFT 20440054: Count = 1, Total Quantity = A/R
+CABLECRAFT CY10.0ZH: Count = 1, Total Quantity = A/R
+CURTIS 701-T-R-001-0-1248D2060A: Count = 1, Total Quantity = 2
+DWYER CCT50-200: Count = 1, Total Quantity = 1
+ELAND CABLES A2ZBK0015: Count = 1, Total Quantity = A/R
+ELAND CABLES A2ZBK0025: Count = 1, Total Quantity = A/R
+ELAND CABLES A2ZBK035: Count = 1, Total Quantity = A/R
+ELAND CABLES A2ZBL0010: Count = 1, Total Quantity = A/R
+ELAND CABLES A2ZBL0015: Count = 1, Total Quantity = A/R
+ELAND CABLES A2ZBL0025: Count = 2, Total Quantity = A/R
+ELAND CABLES A2ZBR0015: Count = 1, Total Quantity = A/R
+ELAND CABLES A2ZBR0025: Count = 1, Total Quantity = A/R
+ELAND CABLES A2ZBR035: Count = 1, Total Quantity = A/R
+ELAND CABLES A2ZGR0015: Count = 1, Total Quantity = A/R
+ELAND CABLES A2ZGR0025: Count = 1, Total Quantity = A/R
+ELAND CABLES A2ZGR035: Count = 1, Total Quantity = A/R
+ELAND CABLES A2ZGY0015: Count = 1, Total Quantity = A/R
+ELAND CABLES A2ZGY0025: Count = 1, Total Quantity = A/R
+ELAND CABLES A2ZRD0010: Count = 1, Total Quantity = A/R
+ELAND CABLES A2ZRD0015: Count = 1, Total Quantity = A/R
+ELAND CABLES A2ZWH0010: Count = 1, Total Quantity = A/R
+ELAND CABLES FCB90: Count = 1, Total Quantity = A/R
+ELDON DRA04: Count = 1, Total Quantity = 1
+EMKA 1101-10: Count = 1, Total Quantity = 
+EMKA 1110-U50: Count = 1, Total Quantity = 8
+ERICO 12 X 3 X M5: Count = 1, Total Quantity = 1
+ERICO 537500: Count = 1, Total Quantity = A/R
+ERICO 549010: Count = 1, Total Quantity = 1
+FARNELL 322-3360: Count = 1, Total Quantity = 1
+FARNELL ACH600 600 110V: Count = 1, Total Quantity = 1
+IMO CC2.5/10: Count = 1, Total Quantity = 10
+IMO EPD2.5: Count = 1, Total Quantity = 6
+IMO ER2.5: Count = 1, Total Quantity = 8
+IMO ERD2.5: Count = 1, Total Quantity = 107
+IMO ERF2: Count = 1, Total Quantity = 6
+IMO ERPE 2.5/4: Count = 1, Total Quantity = 1
+IMO ES1: Count = 1, Total Quantity = 12
+M5 X 10: Count = 1, Total Quantity = 13
+MCS/AL.ALLOY PLATED: Count = 1, Total Quantity = 2
+MILD STEEL ZINC PLATED: Count = 5, Total Quantity = 11
+NYLON: Count = 1, Total Quantity = 4
+OMRON G2R-2-SN-24DC: Count = 1, Total Quantity = 1
+OMRON G2R-2-SNDI-DC24: Count = 1, Total Quantity = 10
+OMRON G2RV-SL701-24VDC+PRRF05E: Count = 1, Total Quantity = 13
+OMRON G2RV-SR500 DC24: Count = 1, Total Quantity = 5
+OMRON G3RV-SR700-D DC24: Count = 1, Total Quantity = 8
+OMRON MY4IN1-D2-24DC(S): Count = 1, Total Quantity = 20
+OMRON P2RF-08-E: Count = 1, Total Quantity = 1
+OMRON P2RF-08-PU: Count = 1, Total Quantity = 10
+OMRON P2RMVM-100-B: Count = 1, Total Quantity = 1
+OMRON PYF-14-PU: Count = 1, Total Quantity = 20
+OMRON R9915: Count = 1, Total Quantity = 1
+PEPPER & FUCHS KFDO-RO-2: Count = 1, Total Quantity = 3
+PFANNENBER 18102000017: Count = 1, Total Quantity = 4
+PFANNENBERG 11643803055: Count = 1, Total Quantity = 4
+PHOENIX CONTACT 2866776: Count = 1, Total Quantity = 2
+PR ELECTRONICS 4501: Count = 1, Total Quantity = 1
+PR ELECTRONICS PR4116: Count = 1, Total Quantity = 1
+RAYCHEM 99M1121-22-0/9-9: Count = 1, Total Quantity = A/R
+RITTAL 2433.500: Count = 1, Total Quantity = 1
+RITTAL 2473.000: Count = 1, Total Quantity = 1
+RITTAL AE 1010.500: Count = 1, Total Quantity = 1
+RME PRINTED TO SUIT: Count = 1, Total Quantity = 
+RS COMPONENTS 163-4734: Count = 1, Total Quantity = 1
+RS COMPONENTS 673-658: Count = 1, Total Quantity = 4
+RS COMPONENTS 703-8800: Count = 1, Total Quantity = 3
+SCHAFFNER 801920: Count = 1, Total Quantity = 1
+SCHAFFNER FN 3359-250-28: Count = 1, Total Quantity = 1
+SCHEIDER ELEC. ZB4-BZ104: Count = 1, Total Quantity = 1
+SCHNEIDE ELEC. A9F532002: Count = 1, Total Quantity = 7
+SCHNEIDER ELE.C A9A26924: Count = 1, Total Quantity = 10
+SCHNEIDER ELE.C A9XAH157: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. 29450: Count = 1, Total Quantity = 2
+SCHNEIDER ELEC. A9A26924: Count = 2, Total Quantity = 3
+SCHNEIDER ELEC. A9F53110: Count = 1, Total Quantity = 2
+SCHNEIDER ELEC. A9F53204: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. A9F53206: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. A9F55110: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. A9F55201: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. A9F55206: Count = 1, Total Quantity = 2
+SCHNEIDER ELEC. A9F55210: Count = 1, Total Quantity = 2
+SCHNEIDER ELEC. A9F55310: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. A9V51225: Count = 1, Total Quantity = 7
+SCHNEIDER ELEC. A9XAH257: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. C16H32D160: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. GS1AP43: Count = 1, Total Quantity = 2
+SCHNEIDER ELEC. GS2AE21: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. GS2AH535: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. GS2N3: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. GV2G05: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. GV2G345: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. GV2ME08: Count = 1, Total Quantity = 2
+SCHNEIDER ELEC. GVAE11: Count = 1, Total Quantity = 2
+SCHNEIDER ELEC. LA4 FVE: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. LA4KE1B: Count = 1, Total Quantity = 2
+SCHNEIDER ELEC. LA7 F701: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. LA7 F901: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. LA9 F702: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. LAD N10: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. LAD N22: Count = 2, Total Quantity = 2
+SCHNEIDER ELEC. LC1D12BD: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. LC1F150BD: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. LP1K610BD: Count = 1, Total Quantity = 2
+SCHNEIDER ELEC. LR9-F5363: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. LRD 14: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. LT3-SA00MW: Count = 1, Total Quantity = 3
+SCHNEIDER ELEC. LV429515: Count = 1, Total Quantity = 2
+SCHNEIDER ELEC. NSYCC0TH0F: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. NSYCC0THD: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. RE22R2AMU: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. RE22R2CMR: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. ZB4 -BZ101: Count = 1, Total Quantity = 3
+SCHNEIDER ELEC. ZB4 BA4: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. ZB4- BA3: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. ZB4-BA1: Count = 1, Total Quantity = 2
+SCHNEIDER ELEC. ZB4-BG2: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. ZB4-BS844: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. ZB4-BV013S: Count = 1, Total Quantity = 5
+SCHNEIDER ELEC. ZB4-BV043S: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. ZB4-BV053S: Count = 1, Total Quantity = 9
+SCHNEIDER ELEC. ZB4-BV063S: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. ZB4-BVB1: Count = 1, Total Quantity = 5
+SCHNEIDER ELEC. ZB4-BVB4: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. ZB4-BVB5: Count = 1, Total Quantity = 9
+SCHNEIDER ELEC. ZB4-BVB6: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. ZB4-BZ101: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. ZB4-BZ102: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. ZBE-101: Count = 1, Total Quantity = 4
+SCHNEIDER ELEC. ZBY9320: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC. ZBZ G156: Count = 1, Total Quantity = 15
+SEIMENS 3UG4617-1CR20: Count = 1, Total Quantity = 1
+SOCOMEC SIRCO M20: Count = 1, Total Quantity = 1
+SOMER 2000 LTD ST1500: Count = 1, Total Quantity = 2
+SOMER 2000 LTD ST2000: Count = 1, Total Quantity = 1
+SOMER 2000 LTD ST2500: Count = 1, Total Quantity = 1
+SOUTHCO E3-160-012 + E3-28-201-24: Count = 1, Total Quantity = 1
+SOUTHCO E3-19-10: Count = 1, Total Quantity = 5
+SOUTHCO E3-24-201-18: Count = 1, Total Quantity = 6
+SOUTHCO E3-27-1: Count = 1, Total Quantity = 5
+STAINLESS STEEL PAINTED RAL5005: Count = 5, Total Quantity = 8
+STEGO 01140.0-00: Count = 1, Total Quantity = 
+STEGO 06030.1-00: Count = 1, Total Quantity = 1
+TO BE MFD: Count = 6, Total Quantity = 8
+UK SOLENOID LIMTED CA11B-###-##: Count = 1, Total Quantity = 1
+UK SOLENOID LIMTED F*GB#####: Count = 1, Total Quantity = 1
+WEIDMULLER 0117510000: Count = 1, Total Quantity = A/R
+WEIDMULLER 0130160000: Count = 2, Total Quantity = 9
+WEIDMULLER 0172160000: Count = 1, Total Quantity = 10
+WEIDMULLER 0211360000: Count = 1, Total Quantity = 2
+WEIDMULLER 0236400000: Count = 1, Total Quantity = 
+WEIDMULLER 0380360000: Count = 1, Total Quantity = 3
+WEIDMULLER 0380560000: Count = 1, Total Quantity = 3
+WEIDMULLER 041200000: Count = 1, Total Quantity = 2
+WEIDMULLER 0443660000: Count = 1, Total Quantity = 6
+WEIDMULLER 0461100000: Count = 1, Total Quantity = 1
+WEIDMULLER 0461300000: Count = 1, Total Quantity = 1
+WEIDMULLER 0474560000: Count = 1, Total Quantity = 13
+WEIDMULLER 0482700000: Count = 1, Total Quantity = 1
+WEIDMULLER 04828000000: Count = 1, Total Quantity = 2
+WEIDMULLER 0482900000: Count = 1, Total Quantity = 1
+WEIDMULLER 1061200000: Count = 1, Total Quantity = 47
+
+Items with 'A/R':
+CABLECRAFT 20440034
+CABLECRAFT 20440054
+CABLECRAFT CY10.0ZH
+ELAND CABLES A2ZBK0015
+ELAND CABLES A2ZBK0025
+ELAND CABLES A2ZBK035
+ELAND CABLES A2ZBL0010
+ELAND CABLES A2ZBL0015
+ELAND CABLES A2ZBL0025
+ELAND CABLES A2ZBR0015
+ELAND CABLES A2ZBR0025
+ELAND CABLES A2ZBR035
+ELAND CABLES A2ZGR0015
+ELAND CABLES A2ZGR0025
+ELAND CABLES A2ZGR035
+ELAND CABLES A2ZGY0015
+ELAND CABLES A2ZGY0025
+ELAND CABLES A2ZRD0010
+ELAND CABLES A2ZRD0015
+ELAND CABLES A2ZWH0010
+ELAND CABLES FCB90
+ERICO 537500
+RAYCHEM 99M1121-22-0/9-9
+WEIDMULLER 0117510000

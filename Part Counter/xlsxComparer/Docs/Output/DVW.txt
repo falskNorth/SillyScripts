@@ -1,0 +1,368 @@
+ALLEN BRADLEY
+100S-C60DJ22C: Count = 1, Total Quantity = 2
+BUSSMANN
+S506-0.5A-R: Count = 1, Total Quantity = 2
+BUSSMANN
+S506-12.5A-R: Count = 1, Total Quantity = 1
+BUSSMANN
+S506-1A-R: Count = 1, Total Quantity = 4
+BUSSMANN
+S506-2A-R: Count = 1, Total Quantity = 7
+BUSSMANN
+S506-5A-R: Count = 1, Total Quantity = 1
+BUSSMANN
+TD2-D: Count = 1, Total Quantity = 1
+BUSSMANN
+TD2-IP20: Count = 1, Total Quantity = 3
+CABLECRAFT
+20440034: Count = 1, Total Quantity = 
+CABLECRAFT
+20440054: Count = 1, Total Quantity = 
+CABLECRAFT
+CY10.0ZH: Count = 1, Total Quantity = 
+CURTIS
+701-T-R-001-0-1248D2060A: Count = 1, Total Quantity = 2
+ELAND CABLES 
+A2ZBK0015: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZBK0025: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZBK0040: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZBK010: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZBK035: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZBL0010: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZBL0015: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZBL0025: Count = 2, Total Quantity = 
+ELAND CABLES 
+A2ZBL0040: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZBR0015: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZBR0025: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZBR0040: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZBR010: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZBR035: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZGR0015: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZGR0025: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZGR0040: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZGR010: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZGR035: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZGY0010: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZGY0025: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZRD0010: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZRD0015: Count = 1, Total Quantity = 
+ELAND CABLES 
+A2ZWH0010: Count = 1, Total Quantity = 
+ELAND CABLES 
+FCB90: Count = 1, Total Quantity = 
+ELDON 
+DRA04: Count = 1, Total Quantity = 1
+EMKA
+1101-10: Count = 1, Total Quantity = 
+EMKA
+1110-U50: Count = 1, Total Quantity = 12
+ERICO
+537580: Count = 1, Total Quantity = 
+ERICO
+537730: Count = 1, Total Quantity = 
+ERICO
+549010: Count = 1, Total Quantity = 
+ERICO
+553570: Count = 1, Total Quantity = 1
+ERICO 12 X 3 X M5: Count = 1, Total Quantity = 1
+EUROTHERM  
+MODEL  3504: Count = 1, Total Quantity = 1
+EUROTHERM  EPOWER
+/ 3PH-160A/690V/115V: Count = 1, Total Quantity = 1
+FARNELL
+322-3360: Count = 1, Total Quantity = 
+FARNELL
+ACH400   400W  110V: Count = 1, Total Quantity = 2
+HAMMOND MANUFACTURING
+1481WN4SS0503^2: Count = 1, Total Quantity = 1
+IMO CC2.5/10: Count = 1, Total Quantity = 10
+IMO EPD2.5: Count = 1, Total Quantity = 6
+IMO ER2.5: Count = 1, Total Quantity = 8
+IMO ERD2.5: Count = 1, Total Quantity = 107
+IMO ERF2: Count = 1, Total Quantity = 6
+IMO ERPE 2.5/4: Count = 1, Total Quantity = 1
+IMO ES1: Count = 1, Total Quantity = 12
+KEMPSTON CONTROLS
+170M6809D: Count = 1, Total Quantity = 3
+M5 X 10: Count = 1, Total Quantity = 13
+MILD STEEL 
+ZINC PLATED: Count = 6, Total Quantity = 13
+MILD STEEL PAINTED RAL 5005: Count = 1, Total Quantity = 3
+MS/AL.ALLOY PLATED: Count = 1, Total Quantity = 3
+NYLON: Count = 1, Total Quantity = 4
+OMRON 
+G2RV-SR500  DC24: Count = 1, Total Quantity = 5
+OMRON 
+G2RV-SR500  DC48: Count = 1, Total Quantity = 1
+OMRON 
+MY4IN1-D2-24DC(S): Count = 1, Total Quantity = 28
+OMRON 
+P2R-2-SNDI-0 DC24: Count = 1, Total Quantity = 11
+OMRON 
+P2RF-08-PU: Count = 1, Total Quantity = 11
+OMRON 
+PYF-14-PU: Count = 1, Total Quantity = 28
+OMRON G2R-2-SN-24DC: Count = 1, Total Quantity = 1
+OMRON G2RV-SL701-24VDC+PRRF05E: Count = 1, Total Quantity = 13
+OMRON G3RV-SR700-D DC24: Count = 1, Total Quantity = 8
+OMRON P2RF-08-E: Count = 1, Total Quantity = 1
+OMRON P2RMVM-100-B: Count = 1, Total Quantity = 1
+OMRON R9915: Count = 1, Total Quantity = 1
+PEPPER AND FUCHS
+KFDO-RO-2: Count = 1, Total Quantity = 4
+PFANNENBERG
+11643803055: Count = 1, Total Quantity = 2
+PFANNENBERG
+11666153055: Count = 1, Total Quantity = 1
+PFANNENBERG
+11740003055: Count = 1, Total Quantity = 2
+PFANNENBERG
+11760003055: Count = 1, Total Quantity = 1
+PFANNENBERG
+18102000017: Count = 1, Total Quantity = 4
+PFANNENBERG
+18102000020: Count = 1, Total Quantity = 2
+PHOENIX CONTACT 
+2866776: Count = 1, Total Quantity = 2
+PHOENIX CONTACT 
+2904610: Count = 1, Total Quantity = 1
+PR ELECTRONICS
+4501: Count = 1, Total Quantity = 1
+PR ELECTRONICS
+PR4116: Count = 1, Total Quantity = 2
+RAYCHEM
+99M1 121-22-0/9-9: Count = 1, Total Quantity = 
+RITTAL 2433.500: Count = 1, Total Quantity = 1
+RITTAL 2473.000: Count = 1, Total Quantity = 1
+RITTAL AE 1010.500: Count = 1, Total Quantity = 1
+RME PRINTED TO SUIT: Count = 1, Total Quantity = 
+RS COMPONENTS
+395-541: Count = 1, Total Quantity = 3
+RS COMPONENTS
+527-8696: Count = 1, Total Quantity = 1
+RS COMPONENTS 
+163-4735: Count = 1, Total Quantity = 
+RS COMPONENTS 
+673-658: Count = 1, Total Quantity = 4
+SCHAFFNER
+801920: Count = 1, Total Quantity = 
+SCHNEIDER ELEC.
+GS2S3: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+LA4FVE: Count = 2, Total Quantity = 2
+SCHNEIDER ELEC.
+LA4KE1B: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+LA7F703: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+LA7F902: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+LA9D 701: Count = 1, Total Quantity = 
+SCHNEIDER ELEC.
+LA9F703: Count = 1, Total Quantity = 
+SCHNEIDER ELEC.
+LAD  N22: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+LAD N22: Count = 1, Total Quantity = 2
+SCHNEIDER ELEC.
+LAD N40: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+LC1D65ABD: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+LC1F115BD: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+LC1F500ED: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+LP1K0610BD: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+LR9F7375: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+LRD365: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+LT3-SA00MW: Count = 1, Total Quantity = 3
+SCHNEIDER ELEC.
+NSYCCOTHD: Count = 1, Total Quantity = 2
+SCHNEIDER ELEC.
+RE22R2AMU: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+RE22R2CMR: Count = 1, Total Quantity = 3
+SCHNEIDER ELEC.
+ZB4  - BV063S: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+ZB4  - BVB6: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+ZB4 - BV013S: Count = 1, Total Quantity = 7
+SCHNEIDER ELEC.
+ZB4 - BV043S: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+ZB4 - BV053S: Count = 1, Total Quantity = 17
+SCHNEIDER ELEC.
+ZB4 - BVB1: Count = 1, Total Quantity = 7
+SCHNEIDER ELEC.
+ZB4 - BVB4: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+ZB4-BA1: Count = 1, Total Quantity = 2
+SCHNEIDER ELEC.
+ZB4-BA3: Count = 1, Total Quantity = 2
+SCHNEIDER ELEC.
+ZB4-BA4: Count = 1, Total Quantity = 2
+SCHNEIDER ELEC.
+ZB4-BG2: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+ZB4-BS844: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+ZB4-BVB5: Count = 1, Total Quantity = 17
+SCHNEIDER ELEC.
+ZB4-BZ101: Count = 2, Total Quantity = 5
+SCHNEIDER ELEC.
+ZB4-BZ102: Count = 1, Total Quantity = 2
+SCHNEIDER ELEC.
+ZB4-BZ104: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+ZBE-101: Count = 1, Total Quantity = 6
+SCHNEIDER ELEC.
+ZBY9320: Count = 1, Total Quantity = 1
+SCHNEIDER ELEC.
+ZBZ-G156: Count = 1, Total Quantity = 25
+SCHNIEDER ELEC.
+29450: Count = 1, Total Quantity = 2
+SCHNIEDER ELEC.
+A9A26924: Count = 4, Total Quantity = 25
+SCHNIEDER ELEC.
+A9F53104: Count = 1, Total Quantity = 1
+SCHNIEDER ELEC.
+A9F53110: Count = 1, Total Quantity = 2
+SCHNIEDER ELEC.
+A9F53202: Count = 1, Total Quantity = 12
+SCHNIEDER ELEC.
+A9F53204: Count = 1, Total Quantity = 2
+SCHNIEDER ELEC.
+A9F55102: Count = 1, Total Quantity = 2
+SCHNIEDER ELEC.
+A9F55104: Count = 1, Total Quantity = 2
+SCHNIEDER ELEC.
+A9F55204: Count = 1, Total Quantity = 1
+SCHNIEDER ELEC.
+A9F55206: Count = 1, Total Quantity = 1
+SCHNIEDER ELEC.
+A9F55212: Count = 1, Total Quantity = 3
+SCHNIEDER ELEC.
+A9F55363: Count = 1, Total Quantity = 1
+SCHNIEDER ELEC.
+A9V51225: Count = 1, Total Quantity = 11
+SCHNIEDER ELEC.
+A9XAH157: Count = 1, Total Quantity = 2
+SCHNIEDER ELEC.
+A9XAH257: Count = 1, Total Quantity = 1
+SCHNIEDER ELEC.
+C63R31M500: Count = 1, Total Quantity = 1
+SCHNIEDER ELEC.
+FN  3359-600-99: Count = 1, Total Quantity = 1
+SCHNIEDER ELEC.
+GS2AE51: Count = 1, Total Quantity = 1
+SCHNIEDER ELEC.
+GS2AH550: Count = 1, Total Quantity = 1
+SCHNIEDER ELEC.
+GS2AP73: Count = 1, Total Quantity = 2
+SCHNIEDER ELEC.
+GV2G05: Count = 1, Total Quantity = 1
+SCHNIEDER ELEC.
+GV2G345: Count = 1, Total Quantity = 1
+SCHNIEDER ELEC.
+GV2G445: Count = 1, Total Quantity = 2
+SCHNIEDER ELEC.
+GV2ME14: Count = 1, Total Quantity = 8
+SCHNIEDER ELEC.
+GVAE11: Count = 1, Total Quantity = 8
+SCHNIEDER ELEC.
+LV432591: Count = 1, Total Quantity = 2
+SIEMENS
+3UG4617-1CR20: Count = 1, Total Quantity = 1
+SOCOMEC SIRCO M20: Count = 1, Total Quantity = 1
+SOMER  2000  LTD
+ST1500: Count = 1, Total Quantity = 1
+SOMER  2000  LTD
+ST2500: Count = 2, Total Quantity = 3
+SOMER  2000  LTD
+ST750: Count = 1, Total Quantity = 1
+SOUTHCO
+E3-160-012+E3-28-201-24: Count = 1, Total Quantity = 2
+SOUTHCO
+E3-19-10: Count = 1, Total Quantity = 7
+SOUTHCO
+E3-24-201-18: Count = 1, Total Quantity = 9
+SOUTHCO
+E3-27-1: Count = 1, Total Quantity = 7
+STAINLESS STEEL
+PAINTED RAL 5005: Count = 8, Total Quantity = 11
+STEGO 01140.0-00: Count = 1, Total Quantity = 
+STEGO 06030.1-00: Count = 1, Total Quantity = 1
+TO BE MFD: Count = 6, Total Quantity = 10
+UK SOLENOID LIMITED
+CA11: Count = 1, Total Quantity = 1
+UK SOLENOID LIMITED
+F*GB: Count = 1, Total Quantity = 1
+WEIDMULLER
+0117510000: Count = 1, Total Quantity = 
+WEIDMULLER
+0130160000: Count = 3, Total Quantity = 55
+WEIDMULLER
+0172160000: Count = 1, Total Quantity = 12
+WEIDMULLER
+0211360000: Count = 1, Total Quantity = 3
+WEIDMULLER
+0236400000: Count = 1, Total Quantity = 
+WEIDMULLER
+0279560000: Count = 1, Total Quantity = 3
+WEIDMULLER
+0380360000: Count = 1, Total Quantity = 4
+WEIDMULLER
+0380460000: Count = 1, Total Quantity = 161
+WEIDMULLER
+0443660000: Count = 1, Total Quantity = 24
+WEIDMULLER
+0443760000: Count = 1, Total Quantity = 3
+WEIDMULLER
+0461100000: Count = 1, Total Quantity = 1
+WEIDMULLER
+0461200000: Count = 1, Total Quantity = 1
+WEIDMULLER
+0461300000: Count = 1, Total Quantity = 2
+WEIDMULLER
+0474560000: Count = 1, Total Quantity = 15
+WEIDMULLER
+0482700000: Count = 1, Total Quantity = 1
+WEIDMULLER
+0482800000: Count = 1, Total Quantity = 1
+WEIDMULLER
+0482900000: Count = 1, Total Quantity = 2
+WEIDMULLER
+0661060000: Count = 1, Total Quantity = 2
+WEIDMULLER
+1029400000: Count = 1, Total Quantity = 8
+WEIDMULLER
+1061200000: Count = 1, Total Quantity = 
+WEIDMULLER
+1065000000: Count = 1, Total Quantity = 4
