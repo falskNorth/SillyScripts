@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+#seperat
+
+>>>>>>> origin/main
 import tkinter as tk
 from tkinter import filedialog, messagebox
 import pandas as pd
@@ -7,7 +12,11 @@ import sys
 class ExcelToCSVConverter:
     def __init__(self, root):
         self.root = root
+<<<<<<< HEAD
         self.root.title("Excel to CSV Converter (WorkflowMax Import)")
+=======
+        self.root.title("Excel to CSV Converter")
+>>>>>>> origin/main
 
         # Default header row (0-based index, 9 means row 7 in Excel)
         self.header_row = tk.IntVar(value=10)

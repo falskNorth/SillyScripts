@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26cd83b1-f0b5-46fc-b4af-fa2db5b5a55c" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WFM Import/FormatToWFM.py" beforeDir="false" afterPath="$PROJECT_DIR$/WFM Import/FormatToWFM.py" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/WFM Import/BkUp/WorksFormatToWFM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> origin/main
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +85,11 @@
       <workItem from="1753428355430" duration="4189000" />
       <workItem from="1753797730936" duration="2097000" />
       <workItem from="1753882294417" duration="1872000" />
+<<<<<<< HEAD
       <workItem from="1754295125773" duration="22556000" />
+=======
+      <workItem from="1754295125773" duration="17114000" />
+>>>>>>> origin/main
     </task>
     <servers />
   </component>
@@ -88,7 +98,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SillyScripts$CvsCreator.coverage" NAME="CvsCreator Coverage Results" MODIFIED="1754301171758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WFM Import" />
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/SillyScripts$FormatToWFM.coverage" NAME="FormatToWFM Coverage Results" MODIFIED="1754320174995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WFM Import" />
+=======
+    <SUITE FILE_PATH="coverage/SillyScripts$FormatToWFM.coverage" NAME="FormatToWFM Coverage Results" MODIFIED="1754315731319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WFM Import" />
+>>>>>>> origin/main
     <SUITE FILE_PATH="coverage/SillyScripts$WFM_Import_UI.coverage" NAME="WFM_Import_UI Coverage Results" MODIFIED="1754295913905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WFM Import Maker" />
   </component>
 </project>
