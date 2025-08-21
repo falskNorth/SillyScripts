@@ -25,8 +25,7 @@ class ExcelToCSVConverter:
         tk.Label(self.root, text="CSV Output:").grid(row=1, column=0, padx=10, pady=5, sticky='e')
         self.csv_file_entry = tk.Entry(self.root, width=50)
         self.csv_file_entry.grid(row=1, column=1, padx=5, pady=5)
-        tk.Button(self.root, text="Browse", command=self.select_csv_output_location).grid(row=1, column=2, padx=5,
-                                                                                          pady=5)
+        tk.Button(self.root, text="Browse", command=self.select_csv_output_location).grid(row=1, column=2, padx=5, pady=5)
 
         # Header row selection
         tk.Label(self.root, text="Header Row (Excel row number):").grid(row=2, column=0, padx=10, pady=5, sticky='e')
@@ -94,29 +93,28 @@ class ExcelToCSVConverter:
             for col in required_columns[1:]:
                 df['Delete'] |= df['Parts Description'].notnull() & df[col].isnull()
 
-            # Create output mapping
-            output_map = {
-                "Job Number": "",
-                "Cost Name": "Parts Description",
-                "Date (DD/MM/YYYY)": date_col,
-                "Unit Cost": "List Price (£)",
-                "Unit Price": "Nett Total (£)",
-                "Quantity": "Qty",
-                "Phase": "",
-                "Supplier": "Supplier",
-                "Cost Code": "Part N°",
-                "Type": "",
-                "Billable": "",
-                "Cost Note": "Status",  # Changed to use the Status column
-                "Estimated/Actual": ""
-            }
+            # Create output DataFrame directly without aggregation
+            output_df = df.loc[~df['Delete'], [
+                'Parts Description', 'Qty', 'Unit', 'Part N°', 'Supplier',
+                'List Price (£)', 'Nett Total (£)', date_col, 'Status'
+            ]].copy()
 
-            # Create and save CSV
-            pd.DataFrame({k: df[v] if v else "" for k, v in output_map.items()}) \
-                .loc[~df['Delete']] \
-                .to_csv(csv_file, index=False)
+            # Rename columns for the output CSV
+            output_df.rename(columns={
+                'Parts Description': 'Cost Name',
+                date_col: 'Date (DD/MM/YYYY)',
+                'List Price (£)': 'Unit Cost',
+                'Nett Total (£)': 'Unit Price',
+                'Qty': 'Quantity',
+                'Supplier': 'Supplier',
+                'Part N°': 'Cost Code',
+                'Status': 'Cost Note'
+            }, inplace=True)
 
-            self.show_success(f"Success! Saved {len(df[~df['Delete']])} records to {csv_file}")
+            # Save to CSV
+            output_df.to_csv(csv_file, index=False)
+
+            self.show_success(f"Success! Saved {len(output_df)} records to {csv_file}")
 
         except Exception as e:
             self.show_error(f"Conversion failed: {str(e)}")
@@ -135,4 +133,3 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = ExcelToCSVConverter(root)
     root.mainloop()
-
