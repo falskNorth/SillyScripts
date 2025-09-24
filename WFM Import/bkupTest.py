@@ -40,18 +40,14 @@ if os.path.exists(file_path):
     print(df)
     # FILTER THE DATAFRAME TO ONLY INCLUDE THE REQUIRED COLUMNS
     try:
-        df_filtered = df[required_columns].copy()  # Create a copy to avoid SettingWithCopyWarning
+        df_filtered = df[required_columns]
 
-        # ADD A MARKER COLUMN TO INDICATE ROWS TO IGNORE USING .loc
-        df_filtered.loc[:, 'Ignore'] = df_filtered['Parts Description'].isnull() | df_filtered['List Price (£)'].isnull()
-
-        # PRINT THE FILTERED DATAFRAME WITH THE IGNORE MARKER
-        print("Filtered DataFrame with Ignore Marker:")
-        print(df_filtered)
+        # IDENTIFY ROWS WHERE 'PARTS DESCRIPTION' OR 'LIST PRICE (£)' ARE NULL
+        null_rows = df_filtered[df_filtered['Parts Description'].isnull() | df_filtered['List Price (£)'].isnull()]
 
         # PRINT EACH ROW OF THE NULL RESULT SEPARATELY
         print("Rows with null 'Parts Description' or 'List Price (£)':")
-        for index, row in df_filtered.iterrows():
+        for index, row in null_rows.iterrows():
             print("=" * 50)  # SEPARATOR FOR READABILITY
             print(f"Row {index}:")
             print(row.to_dict())  # PRINT THE ENTIRE ROW AS A DICTIONARY
